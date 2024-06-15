@@ -1,5 +1,5 @@
 
-# Here all important Patterns about RabbitMQ
+# Here all important Patterns about RabbitMQ 🐇
 
 
 
